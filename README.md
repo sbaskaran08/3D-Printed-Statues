@@ -10,8 +10,10 @@ My logic:
             i/p:5
             o/p:4
             Based on this input i will explain.5 statues want to build, Initially i am having single printer using this i create new printer(takes one day).
-            At now i am having 2,3D printers using this 2 printers i can able to create 2 statues per day(Two days over,we created 2 statues).create statues until 5 like this
-            BASED ON INPUT CREATE 3D PRINTER FROM EXISTING PRINTER
+            At now i am having 2,3D printers using this 2 printers i can able to create 2 statues per day(Two days over,we created 2 statues).create statues until 5 like this.
+           
+           
+           BASED ON INPUT CREATE 3D PRINTER FROM EXISTING PRINTER
         
             
             
