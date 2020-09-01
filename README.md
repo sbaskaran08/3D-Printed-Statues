@@ -1,9 +1,9 @@
 # 3D-Printed-Statues
 Problem description:
             I am having a 3D printer to print statues,the magic is i can able to create a new 3D printer from my existing printer.printer takes one day to create a new statue or new printer
-            inputs:
+           inputs:
                   To create a 'n' statues
-            output:
+           output:
                   Minimum number of days required to print 'n' statues
 
 My logic:
