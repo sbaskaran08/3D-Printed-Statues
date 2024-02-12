@@ -15,4 +15,3 @@ My logic:
                          BASED ON INPUT CREATE 3D PRINTER FROM EXISTING PRINTER
         
             
-  IF YOU COULD NOT UNDERSTAND THIS PROBLEM STATEMENT, PLEASE CLICK THS LINK https://open.kattis.com/problems/3dprinter
